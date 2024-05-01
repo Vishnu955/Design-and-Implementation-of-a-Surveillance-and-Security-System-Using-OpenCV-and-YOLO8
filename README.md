@@ -1,6 +1,4 @@
-# DIP_Semester Project - Project Group 5
- EDS6397 - Digital Image Processing - Design and Implementation of a Surveillance and Security System Using OpenCV and YOLO8
-# Flask Application for Video Streaming and Image Processing
+# Design and Implementation of a Surveillance and Security System Using OpenCV and YOLO8
 
 This Flask application streams video from a webcam and performs real-time object detection using YOLO model from Ultralytics. It also captures images of intruders at regular intervals and applies various image processing techniques.
 
@@ -11,7 +9,7 @@ This Flask application streams video from a webcam and performs real-time object
 
 
 # Note before Run: 
-1.Download the weights file best15.pt
+1.Download the weights file from google drive link: "https://drive.google.com/file/d/1KJqIL7Za1daESKxrADMK_knqfw7pEdCO/view?usp=share_link"
 2.You have to run the command from terminal only.
 3.Before every Run Delete the 'runs' folder from the same directory where these files are located.Continue if you don't have this folder.
 4.Delete all the folders ends with '_images' present in same directory to avoid browser caching.
