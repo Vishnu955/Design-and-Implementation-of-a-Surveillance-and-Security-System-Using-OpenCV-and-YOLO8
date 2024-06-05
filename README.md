@@ -32,11 +32,12 @@ This Flask application streams video from a webcam and performs real-time object
 
 Arun Sai Teja Medisetty,
 Girish Kumar Reddy Boreddy,
+Vishnu Sai Inakollu,
 Akshitha Reddy Thokala, 
 Ali Abbasi Maleki, 
 Nupoor Vijay Kumbhar, 
 Rachana Jinukula, 
 Sree Sai Preetham Nandamuri, 
 Venkata Achyuth Kumar Sanagapalli,
-Venkata Kaushik Belusonti, 
-Vishnu Sai Inakollu
+Venkata Kaushik Belusonti
+
