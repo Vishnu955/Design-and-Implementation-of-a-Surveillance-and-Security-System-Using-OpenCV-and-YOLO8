@@ -41,3 +41,6 @@ Sree Sai Preetham Nandamuri,
 Venkata Achyuth Kumar Sanagapalli,
 Venkata Kaushik Belusonti
 
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
